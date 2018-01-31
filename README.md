@@ -1,2 +1,2 @@
-# rails1
-source code for basic rails app
+# rapp
+Basic form with CRUD operations and 3 types of validations 
